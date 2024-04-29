@@ -1,10 +1,10 @@
 ### Hi, I'm Gabriel Sabino. 👋
 
 
-🔭 I’m currently working on Dominio Solar.
-🌱 I’m currently learning React and React Native.
-💬 Ask me about Soccer😂.
-⚡ Fun fact: I love games, sports, soccer and codes.
+- 🔭 I’m currently working on Dominio Solar.
+- 🌱 I’m currently learning React and React Native.
+- 💬 Ask me about Soccer😂.
+- ⚡ Fun fact: I love games, sports, soccer and codes.
 
 ## About me 
 
@@ -13,6 +13,17 @@
   <img src="https://img.shields.io/static/v1?label=Overview&message=gabrieljsabino1&logo=GitHub&color=1d7ecd" />
 </a>
 
+## GitHub status
+<p>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=gabrieljsabino1&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel Sabino stats" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieljsabino1&hide_border=true&layout=compact&langs_count=16&theme=tokyonight" alt="Gabriel Sabino languages" />
+</p>
+<p>
+  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieljsabino1&theme=tokyonight&hide_border=true" alt="Gabriel Sabino streak" />
+</p>
+<p>
+  <img height="190" src="https://github-profile-trophy.vercel.app?username=gabrieljsabino1&theme=tokyonight&no-frame=true&margin-w=4" alt="Gabriel Sabino Github trophies" />
+</p>
 
 
 ## ⚡ Technologies
