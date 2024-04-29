@@ -1,14 +1,13 @@
 ### Hi, I'm Gabriel Sabino. 👋
 
 
-- 🔭 I’m currently working on Dominio Solar.
+- 🔭 I’m currently working at Dominio Solar.
 - 🌱 I’m currently learning React and React Native.
-- 💬 Ask me about Soccer😂.
 - ⚡ Fun fact: I love games, sports, soccer and codes.
 
-## About me 
 
-# About me
+
+## About me
 <a href="https://github.com/Gabrieljsabino1">
   <img src="https://img.shields.io/static/v1?label=Overview&message=gabrieljsabino1&logo=GitHub&color=1d7ecd" />
 </a>
