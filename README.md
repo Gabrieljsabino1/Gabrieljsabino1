@@ -10,7 +10,7 @@
 
 # About me
 <a href="https://github.com/Gabrieljsabino1">
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Marco-Veio&logo=GitHub&color=1d7ecd" />
+  <img src="https://img.shields.io/static/v1?label=Overview&message=gabrieljsabino1&logo=GitHub&color=1d7ecd" />
 </a>
 
 
