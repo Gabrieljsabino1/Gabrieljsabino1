@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at Dominio Solar.
 - 🌱 I’m currently learning React and React Native.
-- ⚡ Fun fact: I love games, sports, soccer and codes.
+- ⚡ Fun fact: I love games, e-sports, soccer and codes.
 
 
 
