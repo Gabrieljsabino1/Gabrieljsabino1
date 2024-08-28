@@ -1,7 +1,6 @@
 ### Hi, I'm Gabriel Sabino. 👋
 
 
-- 🔭 I’m currently working at Dominio Solar.
 - 🌱 I’m currently learning React and React Native.
 - ⚡ Fun fact: I love games, e-sports, soccer and codes.
 
