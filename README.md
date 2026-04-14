@@ -1,8 +1,8 @@
 ### Hi, I'm Gabriel Sabino. 👋
 
 
-- 🌱 I’m currently learning React and React Native.
-- ⚡ Fun fact: I love games, e-sports, soccer and codes.
+🌱 I’m currently exploring new technologies like Python, along with modern dev tools and AI-powered IDEs such as Antigravity and Claude Code.
+⚡ Fun fact: I’m really into games, e-sports, soccer and, of course, coding.
 
 
 
